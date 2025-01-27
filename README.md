@@ -38,8 +38,17 @@ To run the code, make sure you have the following Python libraries installed:
 - `seaborn`
 - `scikit-learn`
 
-Install them using:
+## Sample UI
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+Here’s an example of the application’s interface:
+
+![Sample UI](Pair_Plot.png)
+
+---
+
+## Contact
+
+- **MALLIKARJUN**  
+  Data Science
+  [GitHub](https://github.com/Mallikarjun-B-Patil) | [LinkedIn](https://www.linkedin.com/in/mallikarjunpatil4472/)
  
